@@ -31,4 +31,4 @@ async def on_message(message):
                 await message.delete()
                 await message.channel.send(f"{message.author.mention} такие слова запрещены!!!")
 
-bot.run("MTE4NzEwODQ1NDg1MTE1Mzk5MQ.GuLu1y.cYqAtlAzVLnan3XTHcER2Q8UAoFJ1nqshxL6gQ")
+bot.run("MTE4NzEwODQ1NDg1MTE1Mzk5MQ.GzHmE0.F0JD4YWSq-MBsrJWw-o1d7UHXyuBaQbGDHGf7A")
